@@ -1,0 +1,7 @@
+sudo netstat -tulpn | grep LISTEN
+
+kill -9 (python PID)
+
+cd /opt/myproject/
+activate virtual environment
+gunicorn --workers 3 --bind 0.0.0.0:5002 wsgi:app

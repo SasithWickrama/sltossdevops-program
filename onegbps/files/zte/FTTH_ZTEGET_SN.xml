@@ -1,0 +1,19 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:web="http://www.zte.com.cn/accessnetwork/ems/webservice/">
+    <soapenv:Header>
+        <web:Authentication>
+            <userName>slt</userName>
+            <password>Slt@17XML</password>
+        </web:Authentication>
+    </soapenv:Header>
+    <soapenv:Body>
+        <web:OperationRequestInfo>
+            <operationName>LST-ONU</operationName>
+            <operationParam>
+                <param>
+                    <name>NAME</name>
+                    <value>ZTE_NMS_REGID</value>
+                </param>
+            </operationParam>
+        </web:OperationRequestInfo>
+    </soapenv:Body>
+</soapenv:Envelope>

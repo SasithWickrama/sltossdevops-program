@@ -1,0 +1,12 @@
+dn: uid=uidrep, ou=people, o=auth
+changetype: modify
+replace: sltInactiveStatus
+sltInactiveStatus: Resumed
+-
+replace: inetUserStatus
+inetUserStatus: active
+-
+add: description
+description: repdesc
+
+${LF}${LF}${LF}

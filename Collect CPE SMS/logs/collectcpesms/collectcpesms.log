@@ -1,0 +1,4 @@
+2022-06-30 14:56:02,075-ERROR- not a query
+2022-06-30 15:06:24,883-ERROR- ORA-12899: value too large for column "OSS_DEV_01"."COLLECT_CPE_SN"."CUS_SMS" (actual: 55, maximum: 10)
+2022-06-30 15:06:25,368-ERROR- ORA-12899: value too large for column "OSS_DEV_01"."COLLECT_CPE_SN"."CUS_SMS" (actual: 55, maximum: 10)
+2022-09-07 14:18:53,830-ERROR- ORA-00936: missing expression

@@ -1,0 +1,40 @@
+Last login: Fri May 20 14:17:28 2022 from 172.21.7.65
+ldapmodify -h 10.68.74.32 -p 389 -D "uid=OSSUser,cn=config" -w o\$Sld\@PAdm\!N 
+dn: uid=CEN2395320, ou=people, o=auth
+changetype: modify
+replace: sltInactiveStatus
+sltInactiveStatus: Resumed
+-
+replace: inetUserStatus
+inetUserStatus: active
+-
+add: description
+description: Test Resume26
+
+${LF}${LF}${LF} 
+
+Only authorised persons are allowed to access the system.
+All the actions will be monitored
+You have new mail.
+clarity@clarityn1 >modifying entry uid=CEN2395320, ou=people, o=auth
+ldap_modify: Type or value exists
+
+clarity@clarityn1 >clarity@clarityn1 >clarity@clarityn1 >Last login: Fri May 20 14:18:46 2022 from 172.21.7.65
+ldapmodify -h 10.68.74.32 -p 389 -D "uid=OSSUser,cn=config" -w o\$Sld\@PAdm\!N 
+dn: uid=CEN2395320, ou=people, o=auth
+changetype: modify
+replace: sltInactiveStatus
+sltInactiveStatus: Suspended
+-
+replace: inetUserStatus
+inetUserStatus: inactive
+-
+add: description
+description: Suspended 19-05-22
+
+
+Only authorised persons are allowed to access the system.
+All the actions will be monitored
+You have new mail.
+clarity@clarityn1 >modifying entry uid=CEN2395320, ou=people, o=auth
+

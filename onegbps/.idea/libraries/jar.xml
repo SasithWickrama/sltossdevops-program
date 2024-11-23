@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/files/jar/SLTIMSgui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/files/jar/SLTUdrGui.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

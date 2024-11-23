@@ -1,0 +1,94 @@
+##python virtual env
+python3 -m venv venv
+
+##pip upgrade
+pip install --upgrade pip
+
+## install python packages via terminal with proxy
+pip3 install --proxy=http://172.21.2.55:8080 python_package
+
+## Open Port Search
+netstat -tulpn | grep LISTEN
+
+##open browser using terinal
+python3 -m webbrowser -t "https://www.python.org"
+
+##Celery Document
+https://docs.celeryq.dev/en/stable/userguide/workers.html
+
+## Celery single worker start
+celery -A tasks worker --pool=solo --loglevel=info ## tasks - celery program
+
+
+## Celery Multiple worker start with queue
+celery -A celeryQueue  worker --loglevel=INFO -Q start --logfile=logs/celery-start.log --concurrency=3 -n start@%h --detach
+celery -A celeryQueue  worker --loglevel=INFO -Q start --logfile=celery-start.log --concurrency=3 -n start1@%h
+
+celery -A celeryQueue  worker --loglevel=INFO -Q closed --logfile=logs/celery-closed.log --concurrency=3 -n closed@%h --detach
+celery -A celeryQueue  worker --loglevel=INFO -Q closed --logfile=celery-closed.log --concurrency=3 -n closed1@%h
+
+celery -A celeryQueue  worker --loglevel=INFO -Q initiate --logfile=celery-initiate.log --concurrency=3 -n initiate@%h
+celery -A celeryQueue  worker --loglevel=INFO -Q initiate --logfile=celery-initiate.log --concurrency=3 -n initiate1@%h
+
+celery -A celeryQueue  worker --loglevel=INFO -Q process --logfile=celery-process.log --concurrency=3 -n process@%h
+celery -A celeryQueue  worker --loglevel=INFO -Q process --logfile=celery-process.log --concurrency=3 -n process1@%h
+
+
+## Flower Start 
+celery -A celeryQueue flower --loglevel=info
+
+## Celery Node Status
+celery -A celeryQueue status
+
+##Celery Node Stop
+kill -9 <relavant PID>
+
+uhr@slt.com.lk
+
+#gunicornserver
+
+
+
+gunicorn --bind 0.0.0.0:5002 wsgi:app --timeout 120 --workers=3 --threads=3 --worker-connections=1000
+
+
+##ports
+5555/7650/7655/7660/7665/7670/7675/7680/7685/7690/7695/7700/15672
+
+
+Dr Sys Password
+sys
+snm##245
+
+$caps!23
+
+6rT*&C243#
+
+
+011421563
+
+
+celery -A smsQueue  worker --loglevel=INFO -Q iptv --logfile=logs/sms_iptv.log --concurrency=3 -n iptv@%h --detach
+
+
+
+--Service file 
+
+[Unit]
+Description=The Gunicorn instance to serve Flask Project
+After=network.target
+
+[Service]
+WorkingDirectory=/opt/OssDevApi
+Environment="PATH=//opt/OssDevApi/ossDevApivenv/bin"
+ExecStart=/opt/OssDevApi/ossDevApivenv/bin/gunicorn --bind 0.0.0.0:22550  --workers 5 --bind unix:ossdevapi.sock -m 007 wsgi
+
+[Install]
+WantedBy=multi-user.target
+
+
+sudo firewall-cmd --zone=public --add-port=5000/tcp
+
+
+Aadp@2023Aug
+

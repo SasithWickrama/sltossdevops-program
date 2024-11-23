@@ -1,0 +1,12 @@
+[2022-07-08 22:26:42,053: INFO/MainProcess] Connected to amqp://celery_usr:**@127.0.0.1:5672/celery
+[2022-07-08 22:26:42,060: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-08 22:26:43,081: INFO/MainProcess] mingle: sync with 3 nodes
+[2022-07-08 22:26:43,082: INFO/MainProcess] mingle: sync complete
+[2022-07-08 22:26:43,099: INFO/MainProcess] process@HQ-PROCFILES ready.
+[2022-07-08 22:26:46,994: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-20 13:45:26,155: INFO/MainProcess] Connected to amqp://celery_usr:**@127.0.0.1:5672/celery
+[2022-07-20 13:45:26,163: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-20 13:45:27,185: INFO/MainProcess] mingle: sync with 3 nodes
+[2022-07-20 13:45:27,186: INFO/MainProcess] mingle: sync complete
+[2022-07-20 13:45:27,203: INFO/MainProcess] process@HQ-PROCFILES ready.
+[2022-07-20 13:45:44,596: INFO/MainProcess] Events of group {task} enabled by remote.

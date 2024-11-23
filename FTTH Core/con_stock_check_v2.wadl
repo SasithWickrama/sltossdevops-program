@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<application name="XXSLT_CONTRACTR_STCK_PKG_V2" targetNamespace="http://xmlns.oracle.com/apps/inv/soaprovider/plsql/rest/xxslt_contractr_stck_pkg_v2/" xmlns:tns="http://xmlns.oracle.com/apps/inv/soaprovider/plsql/rest/xxslt_contractr_stck_pkg_v2/" xmlns="http://wadl.dev.java.net/2009/02" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns1="http://xmlns.oracle.com/apps/inv/rest/con_stock_check_v2/stock_check_cp/">
+   <grammars>
+      <include href="http://erp.slt.com.lk:80/webservices/rest/con_stock_check_v2/?XSD=STOCK_CHECK_CP_SYNCH_TYPEDEF.xsd" xmlns="http://www.w3.org/2001/XMLSchema"/>
+   </grammars>
+   <resources base="http://erp.slt.com.lk:80/webservices/rest/con_stock_check_v2/">
+      <resource path="stock_check_cp/">
+         <method id="STOCK_CHECK_CP" name="POST">
+            <request>
+               <representation mediaType="application/xml" type="STOCK_CHECK_CP_Input"/>
+               <representation mediaType="application/json" type="STOCK_CHECK_CP_Input"/>
+            </request>
+            <response>
+               <representation mediaType="application/xml" type="STOCK_CHECK_CP_Output"/>
+               <representation mediaType="application/json" type="STOCK_CHECK_CP_Output"/>
+            </response>
+         </method>
+      </resource>
+   </resources>
+</application>

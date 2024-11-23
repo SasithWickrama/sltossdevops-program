@@ -1,0 +1,56 @@
+Method,AVG,Net-,Neg.,Streaks,Milia-
+/ Rank,,work,Net-,,Like
+"",,,work,,Cyst
+[22] / 1,0.895,0.945,0.869,0.960,0.807
+[23] / 2,0.833,0.835,0.762,0.896,0.838
+[23] / 3,0.832,0.828,0.762,0.900,0.837
+Method,AVG-,M-,SK-,M-,M-,M-,M-,M-,SK-,SK-
+"",AUC,AUC,AUC,SP82,SP89,SP95,SENS,SPEC,SENS,SPEC
+[24] Top AVG,0.911,0.868,0.953,0.729,0.588,0.366,0.735,0.851,0.978,0.773
+[25] Top SK,0.910,0.856,0.965,0.727,0.555,0.404,0.103,0.998,0.178,0.998
+[26] Top M,0.908,0.874,0.943,0.747,0.590,0.395,0.547,0.950,0.356,0.990
+AVGSC,0.913,0.872,0.954,0.778,0.605,0.435,0.214,0.988,0.600,0.975
+L-SVM,0.926,0.892,0.960,0.834,0.692,0.571,0.718,0.901,0.878,0.931
+NL-SVM,0.904,0.853,0.955,0.801,0.449,0.168,0.675,0.909,0.889,0.928
+melanoma classification. This may reflect aspects of the dis-,,formance. Future challenges may adjust the technical format
+"ease, or bias in the dataset. The best performance came from",,of the task to more closely align with existing image detec-
+the team that added additional weakly labelled pattern an-,,tion benchmarks to better facilitate ease of participation. For
+notations to their training data [25]. 3) The top average,,"example, the output can be formatted as a segmentation or"
+performer was not the best in any single classification cate-,,bounding-box detection task.
+gory. 4) The most complex fusion approach (NL-SVM) led,,Analysis of the classification task demonstrates that en-
+"to a decrease in performance, whereas simpler methods led",,sembles of deep learning approaches and additional data led
+"to overall improvements in performance, consistent with pre-",,"to the highest performance. In addition, collaborative fusions"
+vious findings [17]. This challenge is the second bench-,,of all participant systems outperformed any single system
+mark to demonstrate that a collaborative among all partici-,,"alone. With the exception of [25], submitted methods gener-"
+pants outperforms any single method alone. 5) Not all thresh-,,ate little human interpretable evidence of disease diagnosis.
+olds balanced sensitivity and specificity. Probabilistic score,,Future work or challenges may give more focus to this need
+normalization in fusions is effective at balancing sensitivity,,for proper integration into clinical workflows.
+"and specificity [13, 17].",,Limitations of this study included dataset bias (not all dis-
+"",,"eases, ages, devices, or ethnicities were represented equally"
+"",,"across categories), and incomplete dermoscopic feature an-"
+5. DISCUSSION & CONCLUSION,,
+"",,notations. Reliance on single evaluation metrics rather than
+"",,combinations may also be a limitation [27]. Future chal-
+The International Skin Imaging Collaboration (ISIC) archive,,
+"",,lenges will attempt to address these issues in conjunction with
+was used to host the second public challenge on Skin Le-,,
+"",,the community.
+sion Analysis Toward Melanoma Detection at the Interna-,,
+tional Symposium on Biomedical Imaging (ISBI) 2017. The,,
+"challenge was divided into 3 tasks: segmentation, feature de-",,6. REFERENCES
+"tection (4 classes), and disease classification (3 classes). 2000",,
+"images were available for training, 150 for validation, and",,"[1] Rogers HW, Weinstock MA, Feldman SR, Coldiron BM.:"
+"600 for testing. The challenge involved 593 registrations, 81",,“Incidence estimate of nonmelanoma skin cancer (ker-
+"pre-submissions, and 46 finalized submissions, making it the",,"atinocyte carcinomas) in the US population, 2012” JAMA"
+largest standardized and comparative study in this field.,,"Dermatol vol. 151, no. 10, pp. 1081-1086. 2015."
+Analysis of segmentation results suggest that the aver-,,[2] “Cancer Facts & Figures 2017”. Amer-
+age Jaccard Index may not accurately reflect the number of,,"ican Cancer Society, 2017. Available:"
+images where automated segmentation falls outside inter-,,https://www.cancer.org/research/cancer-facts-
+observer variability. Future challenges may adjust the eval-,,statistics/all-cancer-facts-figures/cancer-facts-figures-
+"uation metric based on this observation. For example, a",,2017.html
+binary error may be more appropriate (segmentation failure,,"[3] Siegel, R.L., Miller, K.D., and Jemal, A.: “Cancer statis-"
+"or success), computed by either using multiple segmentations",,"tics, 2017,” CA: A Cancer Journal for Clinicians, vol. 67,"
+per image to determine a segmentation difference tolerance,,"no. 1, pp. 7-30. 2017."
+"threshold, or by choosing a fixed threshold as an estimator",,"[4] Brady, M.S., Oliveria, S.A., Christos, P.J., Berwick, M.,"
+based on prior studies.,,"Coit, D.G., Katz, J., Halpern, A.C.: “Patterns of detection"
+Poor participation was noted in dermoscopic feature de-,,"in patients with cutaneous melanoma.” Cancer. vol. 89,"

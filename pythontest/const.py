@@ -1,0 +1,5 @@
+hostname='172.25.1.172'
+port='1521'
+service ='clty'
+user='OSSPRG'
+password= 'prgoss456'

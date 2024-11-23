@@ -1,0 +1,16 @@
+[2022-07-08 11:15:36,054: INFO/MainProcess] Connected to amqp://celery_usr:**@127.0.0.1:5672/celery
+[2022-07-08 11:15:36,062: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-08 11:15:37,084: INFO/MainProcess] mingle: all alone
+[2022-07-08 11:15:37,103: INFO/MainProcess] start@HQ-PROCFILES ready.
+[2022-07-08 11:16:30,596: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-08 11:46:53,721: INFO/MainProcess] Canceling queue start
+[2022-07-08 11:47:18,124: INFO/MainProcess] Started consuming from 
+[2022-07-08 11:47:20,340: INFO/MainProcess] Started consuming from 
+[2022-07-08 11:47:20,807: INFO/MainProcess] Started consuming from 
+[2022-07-08 11:47:21,026: INFO/MainProcess] Started consuming from 
+[2022-07-08 11:47:25,023: INFO/MainProcess] Started consuming from hi
+[2022-07-08 11:47:50,635: INFO/MainProcess] Canceling queue hi
+[2022-07-08 11:48:03,174: INFO/MainProcess] Canceling queue amq.gen-y4sjcR8HhW2H5s9lmpvOGw
+[2022-07-08 11:48:06,257: INFO/MainProcess] Canceling queue amq.gen-rtt7kqx6hGqr_cnJyD2FTg
+[2022-07-08 11:48:06,936: INFO/MainProcess] Canceling queue amq.gen-ak-k7xPDk1r2FcPqd_yn_Q
+[2022-07-08 11:48:15,884: INFO/MainProcess] Canceling queue amq.gen-RoVXjcxudOzXoGGgZlpQ-w

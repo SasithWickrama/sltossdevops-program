@@ -1,0 +1,10 @@
+dn: uid=CEN2395320, ou=people, o=auth
+changetype: modify
+replace: sltInactiveStatus
+sltInactiveStatus: Suspended
+-
+replace: inetUserStatus
+inetUserStatus: inactive
+-
+add: description
+description: TEST

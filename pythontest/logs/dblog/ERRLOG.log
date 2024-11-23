@@ -1,0 +1,10 @@
+2022-06-17 12:30:12,067-INFO-Exception : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\pythontest\db.py", line 18, in dbconn
+    dsn_tns = cx_Oracle.makedsn(self.hostname, self.port, service_name=self.service)
+AttributeError: 'str' object has no attribute 'hostname'
+
+2022-06-17 12:35:13,883-INFO-Exception : Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\pythontest\db.py", line 18, in dbconn
+    dsn_tns = cx_Oracle.makedsn(self.hostname, self.port, service_name=self.service)
+AttributeError: 'str' object has no attribute 'hostname'
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:prov="http://provision.ejb/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <prov:resumeSubscriber>
+         <subid>MSISDN</subid>
+      </prov:resumeSubscriber>
+   </soapenv:Body>
+</soapenv:Envelope>

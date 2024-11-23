@@ -1,0 +1,31 @@
+[2022-07-08 12:03:47,734: INFO/MainProcess] Connected to amqp://celery_usr:**@127.0.0.1:5672/celery
+[2022-07-08 12:03:47,741: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-08 12:03:48,758: INFO/MainProcess] mingle: all alone
+[2022-07-08 12:03:48,776: INFO/MainProcess] start@HQ-PROCFILES ready.
+[2022-07-08 12:04:30,145: INFO/MainProcess] sync with closed@HQ-PROCFILES
+[2022-07-08 12:40:24,456: INFO/MainProcess] missed heartbeat from closed@HQ-PROCFILES
+[2022-07-08 22:25:31,995: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-08 22:26:03,462: INFO/MainProcess] sync with closed@HQ-PROCFILES
+[2022-07-08 22:26:20,236: INFO/MainProcess] sync with initiate@HQ-PROCFILES
+[2022-07-08 22:26:42,074: INFO/MainProcess] sync with process@HQ-PROCFILES
+[2022-07-19 18:04:21,989: INFO/MainProcess] missed heartbeat from closed@HQ-PROCFILES
+[2022-07-19 18:04:21,990: INFO/MainProcess] missed heartbeat from initiate@HQ-PROCFILES
+[2022-07-19 18:04:21,990: INFO/MainProcess] missed heartbeat from process@HQ-PROCFILES
+[2022-07-20 13:44:26,121: INFO/MainProcess] Connected to amqp://celery_usr:**@127.0.0.1:5672/celery
+[2022-07-20 13:44:26,138: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-20 13:44:27,163: INFO/MainProcess] mingle: all alone
+[2022-07-20 13:44:27,179: INFO/MainProcess] start@HQ-PROCFILES ready.
+[2022-07-20 13:44:45,817: INFO/MainProcess] sync with closed@HQ-PROCFILES
+[2022-07-20 13:45:04,875: INFO/MainProcess] sync with initiate@HQ-PROCFILES
+[2022-07-20 13:45:26,176: INFO/MainProcess] sync with process@HQ-PROCFILES
+[2022-07-20 13:45:44,596: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-01-30 16:07:32,535: INFO/MainProcess] Connected to amqp://celery_usr:**@127.0.0.1:5672/celery
+[2023-01-30 16:07:32,681: INFO/MainProcess] mingle: searching for neighbors
+[2023-01-30 16:07:34,177: INFO/MainProcess] mingle: all alone
+[2023-01-30 16:07:34,239: INFO/MainProcess] start@HQ-PROCFILES ready.
+[2023-01-30 16:08:35,449: INFO/MainProcess] Events of group {task} enabled by remote.
+[2023-01-30 16:12:51,448: INFO/MainProcess] Task celeryQueue.start_task[e25f5252-d381-46dc-911f-7a3b1ea6c3c3] received
+[2023-01-30 16:12:51,451: WARNING/ForkPoolWorker-2] Task Started
+[2023-01-30 16:12:51,451: WARNING/ForkPoolWorker-2] 
+
+[2023-01-30 16:12:51,473: INFO/ForkPoolWorker-2] Task celeryQueue.start_task[e25f5252-d381-46dc-911f-7a3b1ea6c3c3] succeeded in 0.022664016112685204s: None

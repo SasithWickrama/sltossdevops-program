@@ -1,0 +1,20 @@
+[2022-07-08 22:26:20,217: INFO/MainProcess] Connected to amqp://celery_usr:**@127.0.0.1:5672/celery
+[2022-07-08 22:26:20,223: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-08 22:26:21,243: INFO/MainProcess] mingle: sync with 2 nodes
+[2022-07-08 22:26:21,244: INFO/MainProcess] mingle: sync complete
+[2022-07-08 22:26:21,263: INFO/MainProcess] initiate@HQ-PROCFILES ready.
+[2022-07-08 22:26:21,994: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-08 22:26:42,075: INFO/MainProcess] sync with process@HQ-PROCFILES
+[2022-07-19 18:04:21,989: INFO/MainProcess] missed heartbeat from start@HQ-PROCFILES
+[2022-07-19 18:04:21,990: INFO/MainProcess] missed heartbeat from closed@HQ-PROCFILES
+[2022-07-19 18:04:21,990: INFO/MainProcess] missed heartbeat from process@HQ-PROCFILES
+[2022-07-20 13:45:04,847: INFO/MainProcess] Connected to amqp://celery_usr:**@127.0.0.1:5672/celery
+[2022-07-20 13:45:04,857: INFO/MainProcess] mingle: searching for neighbors
+[2022-07-20 13:45:05,884: INFO/MainProcess] mingle: sync with 2 nodes
+[2022-07-20 13:45:05,885: INFO/MainProcess] mingle: sync complete
+[2022-07-20 13:45:05,903: INFO/MainProcess] initiate@HQ-PROCFILES ready.
+[2022-07-20 13:45:26,175: INFO/MainProcess] sync with process@HQ-PROCFILES
+[2022-07-20 13:45:44,597: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-07-20 21:05:39,280: INFO/MainProcess] missed heartbeat from start@HQ-PROCFILES
+[2022-07-20 21:05:39,294: INFO/MainProcess] missed heartbeat from closed@HQ-PROCFILES
+[2022-07-20 21:05:39,294: INFO/MainProcess] missed heartbeat from process@HQ-PROCFILES

@@ -1,0 +1,114 @@
+2023-04-07 23:13:48,871-INFO-data : {'msisdnNo': '0253123001', 'productId': '1622533232', 'offerName': 'Youtube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': '1'}
+2023-04-07 23:32:34,104-INFO-data : {'msisdnNo': '0253123001', 'productId': '1622533232', 'offerName': 'Youtube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': '1'}
+2023-04-07 23:34:45,453-INFO-data : {'msisdnNo': '0253123001', 'productId': '1622533232', 'offerName': 'Youtube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': '1'}
+2023-04-07 23:35:37,897-INFO-data : {'msisdnNo': '0253123001', 'productId': '1622533232', 'offerName': 'Youtube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': '1'}
+2023-04-07 23:35:49,952-INFO-data : {'msisdnNo': '0253123001', 'productId': '1622533232', 'offerName': 'Youtube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': '1'}
+2023-04-11 13:55:04,062-INFO-data : {'msisdnNo': '0113493122', 'productId': '61000012', 'offerName': 'Youtube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': '1'}
+2023-04-11 14:00:52,972-INFO-data : {'msisdnNo': '0113493122', 'productId': '61000012', 'offerName': 'Youtube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': '1'}
+2023-04-11 14:04:29,748-INFO-data : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'SLT_LTE_ADD_20221030000011223'}]}
+2023-04-11 14:14:28,894-INFO-data : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'SLT_LTE_ADD_20221030000011223'}]}
+2023-04-11 14:15:20,307-INFO-data : {'msisdnNo': '0113493122', 'productId': '61000012', 'offerName': 'Youtube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': '1'}
+2023-04-11 14:16:58,282-INFO-data : {'msisdnNo': '0113493122', 'productId': '61000012', 'offerName': 'Youtube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': '1'}
+2023-04-11 14:30:26,888-INFO-data : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'X122_ADD_20221030000011223'}]}
+2023-04-11 14:38:25,404-INFO-data : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'X122_ADD_20221030000011223'}]}
+2023-04-11 14:38:25,404-INFO-Exception: 'msisdnNo'
+2023-04-11 14:42:09,310-INFO-data : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'msisdnNo': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'X122_ADD_20221030000011223'}]}
+2023-04-11 14:42:09,310-INFO-Exception: 'productId'
+2023-04-11 15:51:51,907-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': ''}
+2023-04-11 15:51:51,908-INFO-Exception: name 'traceback' is not defined
+2023-04-11 15:54:00,872-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': ''}
+2023-04-11 15:54:00,873-INFO-retmsgadd : None
+2023-04-11 15:54:00,873-INFO-Exception: 'NoneType' object is not subscriptable
+2023-04-11 15:55:23,859-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': ''}
+2023-04-11 15:55:23,860-INFO-retmsgadd : None
+2023-04-11 15:55:23,860-INFO-Exception: 'NoneType' object is not subscriptable
+2023-04-11 15:56:40,369-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': ''}
+2023-04-11 15:56:40,369-INFO-retmsgadd : None
+2023-04-11 15:56:40,369-INFO-Exception: 'NoneType' object is not subscriptable
+2023-04-12 12:28:58,122-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': ''}
+2023-04-12 12:28:58,123-INFO-retmsgadd : None
+2023-04-12 12:28:58,123-INFO-Exception: 'NoneType' object is not subscriptable
+2023-04-12 12:29:56,750-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': ''}
+2023-04-12 12:29:56,751-INFO-retmsgadd : None
+2023-04-12 12:29:56,751-INFO-Exception: 'NoneType' object is not subscriptable
+2023-04-12 12:30:17,033-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': '1'}
+2023-04-12 12:30:17,034-INFO-retmsgadd : None
+2023-04-12 12:30:17,034-INFO-Exception: 'NoneType' object is not subscriptable
+2023-04-12 12:47:00,974-INFO-data : {'msisdnNo': '0113493122', 'productId': '61000012', 'offerName': 'Youtube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': '1'}
+2023-04-12 12:47:00,975-INFO-retmsgadd : None
+2023-04-12 12:47:00,975-INFO-Exception: 'NoneType' object is not subscriptable
+2023-04-12 13:46:21,986-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': ''}
+2023-04-12 13:46:21,987-INFO-retmsgadd : None
+2023-04-12 13:46:21,987-INFO-Exception: 'NoneType' object is not subscriptable
+2023-04-12 14:03:49,132-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': ''}
+2023-04-12 14:03:49,133-INFO-retmsgadd : None
+2023-04-12 14:03:49,133-INFO-Exception: 'NoneType' object is not subscriptable
+2023-04-13 12:54:55,206-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': ''}
+2023-04-13 12:54:55,209-INFO-retmsgadd : None
+2023-04-13 12:54:55,210-INFO-Exception: 'NoneType' object is not subscriptable
+2023-04-13 13:09:50,814-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': ''}
+2023-04-13 13:09:51,089-INFO-retmsgadd : {'resultHeader': {'version': '1', 'resultCode': '118030282', 'resultDesc': 'Offering 61000012 is subscribed repeatedly, and the subscription sequence number is null.'}}
+2023-04-13 13:09:51,089-INFO-result1 : {'resultHeader': {'version': '1', 'resultCode': '118030282', 'resultDesc': 'Offering 61000012 is subscribed repeatedly, and the subscription sequence number is null.'}}
+2023-04-17 13:33:05,367-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': ''}
+2023-04-17 13:33:06,672-INFO-retmsgadd : {'resultHeader': {'version': '1', 'resultCode': '118030282', 'resultDesc': 'Offering 61000012 is subscribed repeatedly, and the subscription sequence number is null.'}}
+2023-04-17 13:33:06,672-INFO-result1 : {'resultHeader': {'version': '1', 'resultCode': '118030282', 'resultDesc': 'Offering 61000012 is subscribed repeatedly, and the subscription sequence number is null.'}}
+2023-04-18 11:11:37,447-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': ''}
+2023-04-18 11:11:38,702-INFO-retmsgadd : {'resultHeader': {'version': '1', 'resultCode': '118030282', 'resultDesc': 'Offering 61000012 is subscribed repeatedly, and the subscription sequence number is null.'}}
+2023-04-18 11:11:38,702-INFO-result1 : {'resultHeader': {'version': '1', 'resultCode': '118030282', 'resultDesc': 'Offering 61000012 is subscribed repeatedly, and the subscription sequence number is null.'}}
+2023-04-18 11:24:54,032-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': ''}
+2023-04-18 11:24:54,162-INFO-retmsgadd : {'resultHeader': {'version': '1', 'resultCode': '118030282', 'resultDesc': 'Offering 61000012 is subscribed repeatedly, and the subscription sequence number is null.'}}
+2023-04-18 11:24:54,162-INFO-result1 : {'resultHeader': {'version': '1', 'resultCode': '118030282', 'resultDesc': 'Offering 61000012 is subscribed repeatedly, and the subscription sequence number is null.'}}
+2023-04-18 11:25:44,860-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'DEL_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': ''}
+2023-04-18 11:25:52,378-INFO-retmsgdel : {'resultHeader': {'version': '1', 'resultCode': '0', 'resultDesc': 'Operation successfully.'}}
+2023-04-18 11:25:52,378-INFO-result1 : {'resultHeader': {'version': '1', 'resultCode': '0', 'resultDesc': 'Operation successfully.'}}
+2023-04-18 11:26:03,144-INFO-data : {'msisdnNo': '113493122', 'productId': '61000011', 'offerName': 'YouTube', 'operationType': 'DEL_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': ''}
+2023-04-18 11:26:03,393-INFO-retmsgdel : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000011 does not exist.'}}
+2023-04-18 11:26:03,393-INFO-result1 : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000011 does not exist.'}}
+2023-04-18 11:26:23,381-INFO-data : {'msisdnNo': '113493122', 'productId': '61000011', 'offerName': 'YouTube', 'operationType': 'DEL_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': ''}
+2023-04-18 11:26:23,579-INFO-retmsgdel : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000011 does not exist.'}}
+2023-04-18 11:26:23,580-INFO-result1 : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000011 does not exist.'}}
+2023-04-18 11:28:36,855-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'DEL_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': '705000008403417'}
+2023-04-18 11:28:37,005-INFO-retmsgdel : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-18 11:28:37,005-INFO-result1 : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-18 11:29:22,173-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'DEL_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': ''}
+2023-04-18 11:29:22,455-INFO-retmsgdel : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-18 11:29:22,455-INFO-result1 : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-18 11:30:08,365-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'DEL_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': '705000008403417'}
+2023-04-18 11:30:08,613-INFO-retmsgdel : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-18 11:30:08,613-INFO-result1 : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-18 11:30:54,981-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': '12'}
+2023-04-18 11:30:55,245-INFO-retmsgadd : {'resultHeader': {'version': '1', 'resultCode': '0', 'resultDesc': 'Operation successfully.'}}
+2023-04-18 11:30:55,245-INFO-result1 : {'resultHeader': {'version': '1', 'resultCode': '0', 'resultDesc': 'Operation successfully.'}}
+2023-04-18 11:43:15,837-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': '23'}
+2023-04-18 11:43:16,100-INFO-retmsgadd : {'resultHeader': {'version': '1', 'resultCode': '118030282', 'resultDesc': 'Offering 61000012 is subscribed repeatedly, and the subscription sequence number is null.'}}
+2023-04-18 11:43:16,100-INFO-result1 : {'resultHeader': {'version': '1', 'resultCode': '118030282', 'resultDesc': 'Offering 61000012 is subscribed repeatedly, and the subscription sequence number is null.'}}
+2023-04-18 11:49:38,013-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'DEL_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': ''}
+2023-04-18 11:49:45,334-INFO-retmsgdel : {'resultHeader': {'version': '1', 'resultCode': '0', 'resultDesc': 'Operation successfully.'}}
+2023-04-18 11:49:45,334-INFO-result1 : {'resultHeader': {'version': '1', 'resultCode': '0', 'resultDesc': 'Operation successfully.'}}
+2023-04-18 11:50:45,509-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'DEL_OFFERING', 'channelName': 'MY_SLT'}
+2023-04-18 11:50:45,739-INFO-retmsgdel : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-18 11:50:45,740-INFO-result1 : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-18 11:51:58,690-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'DEL_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': '705000008403417'}
+2023-04-18 11:51:58,771-INFO-retmsgdel : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-18 11:51:58,771-INFO-result1 : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-18 11:59:11,403-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'DEL_OFFERING', 'channelName': 'MY_SLT', 'PurchaseSeq': '705000008403417'}
+2023-04-18 11:59:11,580-INFO-retmsgdel : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-18 11:59:11,580-INFO-result1 : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-18 11:59:19,075-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'DEL_OFFERING', 'channelName': 'MY_SLT', 'PurchaseSeq': '705000008403417'}
+2023-04-18 11:59:19,215-INFO-retmsgdel : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-18 11:59:19,215-INFO-result1 : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-18 12:09:48,699-INFO-data : {'msisdnNo': '113493122', 'productId': '61000011', 'offerName': 'YouTube', 'operationType': 'DEL_OFFERING', 'channelName': 'MY_SLT', 'PurchaseSeq': '705000008403735'}
+2023-04-18 12:09:48,869-INFO-retmsgdel : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000011 does not exist.'}}
+2023-04-18 12:09:48,869-INFO-result1 : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000011 does not exist.'}}
+2023-04-18 12:51:39,776-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'DEL_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': ''}
+2023-04-18 12:51:40,925-INFO-retmsgdel : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-18 12:51:40,925-INFO-result1 : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-19 09:34:12,734-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': ''}
+2023-04-19 09:34:14,014-INFO-retmsgadd : {'resultHeader': {'version': '1', 'resultCode': '118013302', 'resultDesc': 'The account balance is insufficient.'}}
+2023-04-19 09:34:14,014-INFO-result1 : {'resultHeader': {'version': '1', 'resultCode': '118013302', 'resultDesc': 'The account balance is insufficient.'}}
+2023-04-19 09:34:28,320-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': ''}
+2023-04-19 09:34:28,427-INFO-retmsgadd : {'resultHeader': {'version': '1', 'resultCode': '118013302', 'resultDesc': 'The account balance is insufficient.'}}
+2023-04-19 09:34:28,428-INFO-result1 : {'resultHeader': {'version': '1', 'resultCode': '118013302', 'resultDesc': 'The account balance is insufficient.'}}
+2023-04-19 09:34:34,293-INFO-data : {'msisdnNo': '113493122', 'productId': '61000012', 'offerName': 'YouTube', 'operationType': 'ADD_OFFERING', 'channelName': 'MY_SLT', 'channelSeq': ''}
+2023-04-19 09:34:34,417-INFO-retmsgadd : {'resultHeader': {'version': '1', 'resultCode': '118013302', 'resultDesc': 'The account balance is insufficient.'}}
+2023-04-19 09:34:34,417-INFO-result1 : {'resultHeader': {'version': '1', 'resultCode': '118013302', 'resultDesc': 'The account balance is insufficient.'}}

@@ -1,0 +1,66 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<schema targetNamespace="http://xmlns.oracle.com/apps/inv/rest/con_stock_check_v2/stock_check_cp/" xmlns="http://www.w3.org/2001/XMLSchema" xmlns:db="http://xmlns.oracle.com/apps/inv/rest/con_stock_check_v2/stock_check_cp/" elementFormDefault="qualified" xmlns:head="http://xmlns.oracle.com/apps/fnd/rest/header" xmlns:isgf="http://xmlns.oracle.com/isg/servicefault">
+   <import namespace="http://xmlns.oracle.com/isg/servicefault" schemaLocation="http://erp.slt.com.lk:80/webservices/rest/con_stock_check_v2/?XSD=ISGServiceFault.xsd"/>
+   <import namespace="http://xmlns.oracle.com/apps/fnd/rest/header" schemaLocation="http://erp.slt.com.lk:80/webservices/rest/con_stock_check_v2/?XSD=RESTHeader.xsd"/>
+   <element name="InputParameters">
+      <complexType>
+         <sequence>
+            <element name="IN_CONTRACTOR_X" type="string" db:index="1" db:type="VARCHAR2" minOccurs="0" nillable="true"/>
+         </sequence>
+      </complexType>
+   </element>
+   <element name="OutputParameters">
+      <complexType>
+         <sequence>
+            <element name="OUT_ONHAND_QTY_TBL" type="db:APPS.XXSLT_CONTRACTR_X8710734X1X2" db:index="2" db:type="Array" minOccurs="0" nillable="true"/>
+            <element name="OUT_STATUS" type="string" db:index="3" db:type="VARCHAR2" minOccurs="0" nillable="true"/>
+            <element name="OUT_ERROR_MESSAGE" type="string" db:index="4" db:type="VARCHAR2" minOccurs="0" nillable="true"/>
+         </sequence>
+      </complexType>
+   </element>
+   <complexType name="APPS.XXSLT_CONTRACTR_X8710734X1X2">
+      <sequence>
+         <element name="OUT_ONHAND_QTY_TBL_ITEM" type="db:APPS.XXSLT_CONTRACTR_X8710734X1X3" db:type="Struct" minOccurs="0" maxOccurs="unbounded" nillable="true"/>
+      </sequence>
+   </complexType>
+   <complexType name="APPS.XXSLT_CONTRACTR_X8710734X1X3">
+      <sequence>
+         <element name="ORG_X" type="db:string255" db:type="VARCHAR2" minOccurs="0" nillable="true"/>
+         <element name="SUBINVENTORY_X" type="db:string255" db:type="VARCHAR2" minOccurs="0" nillable="true"/>
+         <element name="LOCATOR_X" type="db:string255" db:type="VARCHAR2" minOccurs="0" nillable="true"/>
+         <element name="CONTRACTOR_X" type="db:string255" db:type="VARCHAR2" minOccurs="0" nillable="true"/>
+         <element name="LOT_NUMBER_X" type="db:string255" db:type="VARCHAR2" minOccurs="0" nillable="true"/>
+         <element name="DRUM_NO_X" type="db:string255" db:type="VARCHAR2" minOccurs="0" nillable="true"/>
+         <element name="GRN_DATE_X" type="dateTime" db:type="DATE" minOccurs="0" nillable="true"/>
+         <element name="DATE_TRANSFERED_TO_LOCATOR_X" type="db:string255" db:type="VARCHAR2" minOccurs="0" nillable="true"/>
+         <element name="ITEM_CODE_X" type="db:string255" db:type="VARCHAR2" minOccurs="0" nillable="true"/>
+         <element name="ITEM_DESCRIPTION_X" type="db:string255" db:type="VARCHAR2" minOccurs="0" nillable="true"/>
+         <element name="QUANTITY_X" type="decimal" db:type="NUMBER" minOccurs="0" nillable="true"/>
+         <element name="UOM_X" type="db:string255" db:type="VARCHAR2" minOccurs="0" nillable="true"/>
+         <element name="TOTAL_COST_X" type="decimal" db:type="NUMBER" minOccurs="0" nillable="true"/>
+         <element name="PROJECT_NUMBER_X" type="db:string255" db:type="VARCHAR2" minOccurs="0" nillable="true"/>
+         <element name="CONTRACTOR_CODE_X" type="db:string255" db:type="VARCHAR2" minOccurs="0" nillable="true"/>
+      </sequence>
+   </complexType>
+   <simpleType name="string255">
+      <restriction base="string">
+         <maxLength value="255"/>
+      </restriction>
+   </simpleType>
+<element name="STOCK_CHECK_CP_Input">
+      <complexType>
+         <sequence>
+            <element ref="head:RESTHeader"/>
+            <element ref="db:InputParameters"/>
+         </sequence>
+      </complexType>
+   </element>
+   <element name="STOCK_CHECK_CP_Output">
+      <complexType>
+         <choice>
+            <element ref="db:OutputParameters"/>
+            <element ref="isgf:ISGServiceFault"/>
+         </choice>
+      </complexType>
+   </element>
+</schema>

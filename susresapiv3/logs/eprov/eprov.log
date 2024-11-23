@@ -1,0 +1,4 @@
+2022-05-23 16:36:48,730-INFO-Request : {'req_by': 'SRS', 'ref_id': 'TEST1', 'lea': 'AD', 'cr': 'CR000480736', 'accno': '0010092835', 'order_type': 'SUSPEND', 'service': 'V-VOICE COPPER', 'service_id': 'SI200507232000016551', 'cct': '0112396502'}
+2022-05-25 12:58:33,418-INFO-Request : {'req_by': '', 'ref_id': '', 'lea': '', 'cr': 'CR000480736', 'accno': '0010092835', 'order_type': 'SUSPEND', 'service': 'V-VOICE COPPER', 'service_id': 'SI200507232000016551', 'cct': '0112396502'}
+2022-05-25 14:09:20,972-INFO-Request : {'req_by': '', 'ref_id': '', 'lea': '', 'cr': 'CR000480736', 'accno': '0010092835', 'order_type': 'SUSPEND', 'service': 'V-VOICE COPPER', 'service_id': 'SI200507232000016551', 'cct': '0112396502'}
+2022-05-30 09:48:43,142-INFO-Request : {'req_by': 'SRS', 'ref_id': 'TEST2', 'lea': 'CEN', 'cr': 'CR000480736', 'accno': '0010092835', 'order_type': 'SUSPEND', 'service': 'V-VOICE COPPER', 'service_id': 'SI2009111800624795', 'cct': '0112395320'}

@@ -1,0 +1,141 @@
+2022-11-18 13:58:10,859-INFO-g9OOtxUteYy7gDr - 127.0.0.1 - http://127.0.0.1:20001/sltdevops/apiServices/autoprovision/token - Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY2ODY1NjEwNCwianRpIjoiM2M3NWUxODMtODM3My00NTE2LWI5OGYtNGQwZmMxZmJiZjE2IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6InRlc3QiLCJuYmYiOjE2Njg2NTYxMDQsImV4cCI6MTY2ODY1NzAwNH0.F0ATh4oAEzlWp7vyYPLIaq-EJWDSahaTBCVXNZcRsBo
+Content-Type: application/json
+User-Agent: PostmanRuntime/7.29.2
+Accept: */*
+Postman-Token: 5d6c7f3a-6198-4072-af9c-7633e62d047e
+Host: 127.0.0.1:20001
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 19
+
+
+2022-11-18 13:58:26,790-INFO-g9OOtxUteYy7gDr - 127.0.0.1 - http://127.0.0.1:20001/sltdevops/apiServices/autoprovision/pcrf - Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY2ODc1OTU4OCwianRpIjoiNDMxYTY4MDktZmU4OS00Njc2LTgyZGUtZDc3MGI1YjE0M2RlIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6IjEyMzQ1IiwibmJmIjoxNjY4NzU5NTg4LCJleHAiOjE2Njg3NjA0ODh9.bV-YDur4H6CRiG378hQ4epJmRYfzRcv8HIX6pm_4cBs
+User-Agent: PostmanRuntime/7.29.2
+Accept: */*
+Postman-Token: 37bca577-1050-415f-a478-bda66f653947
+Host: 127.0.0.1:20001
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 116
+
+
+2022-11-18 13:58:32,673-INFO-g9OOtxUteYy7gDr - 127.0.0.1 - http://127.0.0.1:20001/sltdevops/apiServices/autoprovision/pcrf - Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY2ODc1OTU4OCwianRpIjoiNDMxYTY4MDktZmU4OS00Njc2LTgyZGUtZDc3MGI1YjE0M2RlIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6IjEyMzQ1IiwibmJmIjoxNjY4NzU5NTg4LCJleHAiOjE2Njg3NjA0ODh9.bV-YDur4H6CRiG378hQ4epJmRYfzRcv8HIX6pm_4cBs
+User-Agent: PostmanRuntime/7.29.2
+Accept: */*
+Postman-Token: 6885b325-8ef4-4c98-b28f-a8faaccd4aab
+Host: 127.0.0.1:20001
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 115
+
+
+2022-11-22 13:54:07,805-INFO-LcZl0zdCqi3mec6 - 127.0.0.1 - http://127.0.0.1:20001/sltdevops/apiServices/autoprovision/token - Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY2ODY1NjEwNCwianRpIjoiM2M3NWUxODMtODM3My00NTE2LWI5OGYtNGQwZmMxZmJiZjE2IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6InRlc3QiLCJuYmYiOjE2Njg2NTYxMDQsImV4cCI6MTY2ODY1NzAwNH0.F0ATh4oAEzlWp7vyYPLIaq-EJWDSahaTBCVXNZcRsBo
+Content-Type: application/json
+User-Agent: PostmanRuntime/7.29.2
+Accept: */*
+Postman-Token: c6592ef5-bf6b-450a-95ad-cad5115cdef0
+Host: 127.0.0.1:20001
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 19
+
+
+2022-11-22 13:54:33,102-INFO-LcZl0zdCqi3mec6 - 127.0.0.1 - http://127.0.0.1:20001/sltdevops/apiServices/autoprovision/pcrf - Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY2OTEwNTQ0NywianRpIjoiNWMxN2U0ZGEtYTkzNi00MjU4LWFiOGEtYzNmOTNiNzk0MTY3IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6IjEyMzQ1IiwibmJmIjoxNjY5MTA1NDQ3LCJleHAiOjE2NjkxMDYzNDd9.kbhLJrA2mc1xBKO3_5Ast4lMWnU4WTVDpTJZ2ulPgrg
+User-Agent: PostmanRuntime/7.29.2
+Accept: */*
+Postman-Token: 322e1d93-f45c-423c-93d0-a538b9af0b94
+Host: 127.0.0.1:20001
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 115
+
+
+2022-11-22 13:59:17,149-INFO-i0O2K9TSXx12YYA - 127.0.0.1 - http://127.0.0.1:20001/sltdevops/apiServices/autoprovision/token - Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY2ODY1NjEwNCwianRpIjoiM2M3NWUxODMtODM3My00NTE2LWI5OGYtNGQwZmMxZmJiZjE2IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6InRlc3QiLCJuYmYiOjE2Njg2NTYxMDQsImV4cCI6MTY2ODY1NzAwNH0.F0ATh4oAEzlWp7vyYPLIaq-EJWDSahaTBCVXNZcRsBo
+Content-Type: application/json
+User-Agent: PostmanRuntime/7.29.2
+Accept: */*
+Postman-Token: 3ae68334-db9f-4830-95db-6e5fda9c2631
+Host: 127.0.0.1:20001
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 19
+
+
+2022-11-22 14:01:41,993-INFO-o8s1yD4oj4Q6Vj4 - 127.0.0.1 - http://127.0.0.1:20001/sltdevops/apiServices/autoprovision/token - Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY2ODY1NjEwNCwianRpIjoiM2M3NWUxODMtODM3My00NTE2LWI5OGYtNGQwZmMxZmJiZjE2IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6InRlc3QiLCJuYmYiOjE2Njg2NTYxMDQsImV4cCI6MTY2ODY1NzAwNH0.F0ATh4oAEzlWp7vyYPLIaq-EJWDSahaTBCVXNZcRsBo
+Content-Type: application/json
+User-Agent: PostmanRuntime/7.29.2
+Accept: */*
+Postman-Token: 784ddc2e-fef9-4f01-aec2-2ed116927a59
+Host: 127.0.0.1:20001
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 19
+
+
+2022-11-22 14:01:48,979-INFO-o8s1yD4oj4Q6Vj4 - 127.0.0.1 - http://127.0.0.1:20001/sltdevops/apiServices/autoprovision/pcrf - Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY2OTEwNTQ0NywianRpIjoiNWMxN2U0ZGEtYTkzNi00MjU4LWFiOGEtYzNmOTNiNzk0MTY3IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6IjEyMzQ1IiwibmJmIjoxNjY5MTA1NDQ3LCJleHAiOjE2NjkxMDYzNDd9.kbhLJrA2mc1xBKO3_5Ast4lMWnU4WTVDpTJZ2ulPgrg
+User-Agent: PostmanRuntime/7.29.2
+Accept: */*
+Postman-Token: 33f7c9cc-c161-4af1-a7bc-d682afbc2e82
+Host: 127.0.0.1:20001
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 115
+
+
+2022-11-22 14:18:23,098-INFO-m6VhQgfSRlOzQK0 - 127.0.0.1 - http://127.0.0.1:20001/sltdevops/apiServices/autoprovision/pcrf - Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY2OTEwNTQ0NywianRpIjoiNWMxN2U0ZGEtYTkzNi00MjU4LWFiOGEtYzNmOTNiNzk0MTY3IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6IjEyMzQ1IiwibmJmIjoxNjY5MTA1NDQ3LCJleHAiOjE2NjkxMDYzNDd9.kbhLJrA2mc1xBKO3_5Ast4lMWnU4WTVDpTJZ2ulPgrg
+User-Agent: PostmanRuntime/7.29.2
+Accept: */*
+Postman-Token: 03a898ff-8f91-451c-ab4b-2f5655e12876
+Host: 127.0.0.1:20001
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 115
+
+
+2022-11-22 14:18:44,485-INFO-m6VhQgfSRlOzQK0 - 127.0.0.1 - http://127.0.0.1:20001/sltdevops/apiServices/autoprovision/token - Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY2ODY1NjEwNCwianRpIjoiM2M3NWUxODMtODM3My00NTE2LWI5OGYtNGQwZmMxZmJiZjE2IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6InRlc3QiLCJuYmYiOjE2Njg2NTYxMDQsImV4cCI6MTY2ODY1NzAwNH0.F0ATh4oAEzlWp7vyYPLIaq-EJWDSahaTBCVXNZcRsBo
+Content-Type: application/json
+User-Agent: PostmanRuntime/7.29.2
+Accept: */*
+Postman-Token: 18d799d1-63df-4877-94ad-f5966faaf0b5
+Host: 127.0.0.1:20001
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 19
+
+
+2022-11-22 14:18:58,367-INFO-m6VhQgfSRlOzQK0 - 127.0.0.1 - http://127.0.0.1:20001/sltdevops/apiServices/autoprovision/pcrf - Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY2OTEwNjkyNCwianRpIjoiNTFlODhhNjEtN2IxOC00NWExLWFlY2EtMTJmYWU4MTJkOWFiIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6IjEyMzQ1IiwibmJmIjoxNjY5MTA2OTI0LCJleHAiOjE2NjkxMDc4MjR9.a0jLP898GCDdaMJputEmq27OuYa7spyaUjDHsIlvtwo
+User-Agent: PostmanRuntime/7.29.2
+Accept: */*
+Postman-Token: cfca7641-ff07-47e8-b078-cc7a780437ce
+Host: 127.0.0.1:20001
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 115
+
+
+2022-11-22 14:27:41,949-INFO-9YolWh2SlB0ElPm - 127.0.0.1 - http://127.0.0.1:20001/sltdevops/apiServices/autoprovision/pcrf - Content-Type: application/json
+User-Agent: PostmanRuntime/7.29.2
+Accept: */*
+Postman-Token: 2a54a68b-83fa-4940-9634-3b125f379fac
+Host: 127.0.0.1:20001
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 115
+
+
+2022-11-22 14:30:39,272-INFO-2USLHpuP6k1vepj - 127.0.0.1 - http://127.0.0.1:20001/sltdevops/apiServices/autoprovision/pcrf - Content-Type: application/json
+User-Agent: PostmanRuntime/7.29.2
+Accept: */*
+Postman-Token: c67d89b6-fafc-4a7b-a723-c89c1b381eb6
+Host: 127.0.0.1:20001
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 115
+
+

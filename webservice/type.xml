@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ser="https://vendorapi.etpos.lk/soap/merchant/server">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <ser:createLocationType>
+            <type>{type}</type>
+            <userid>{userid}</userid>
+        </ser:createLocationType>
+    </soapenv:Body>
+</soapenv:Envelope>

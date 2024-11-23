@@ -1,0 +1,3 @@
+## pip install with proxy
+
+pip3 install --proxy=http://172.21.2.55:8080 celery

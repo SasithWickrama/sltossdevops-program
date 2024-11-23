@@ -1,0 +1,11 @@
+2021-10-17 21:04:12,792-INFO-Request : {'SubscriptionId': '1afe1433-a38e-4c79-8503-8d5687b44eb1'}
+2021-10-17 21:04:14,195-INFO-Response : {'message': 'Subscription not found.'}
+2021-10-18 16:26:44,308-INFO-Request : {'SubscriptionId': '1afe1433-a38e-4c79-8503-8d5687b44eb1'}
+2021-10-18 16:26:45,406-INFO-Response : {'message': 'Subscription not found.'}
+2021-10-18 16:36:41,848-INFO-Request : {'SubscriptionId': '1afe1433-a38e-4c79-8503-8d5687b44eb1'}
+2021-10-18 16:36:43,864-INFO-Response : {'message': 'Subscription not found.'}
+2021-10-18 16:37:13,314-INFO-Request : {'SubscriptionId': '1afe1433-a38e-4c79-8503-8d5687b44eb1'}
+2021-10-18 16:37:14,405-INFO-Response : {'message': 'Subscription not found.'}
+2021-10-18 17:13:26,534-INFO-Request : {'SubscriptionId': '1afe1433-a38e-4c79-8503-8d5687b44eb1'}
+2021-10-18 17:13:27,763-INFO-Response : {'message': 'Subscription not found.'}
+2021-10-21 15:51:27,937-INFO-Request : {'SubscriptionId': '1afe1433-a38e-4c79-8503-8d5687b44eb1'}

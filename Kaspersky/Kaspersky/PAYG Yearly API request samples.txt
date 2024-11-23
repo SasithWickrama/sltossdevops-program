@@ -1,0 +1,42 @@
+Create (replace sku/partner/reseller/quantity with your own):
+
+{ 
+   "BillingPlan":"Yearly",
+   "Sku":"KL3111JAKFG",
+   "Quantity":11,
+   "Expiration":null,
+   "Customer":{ 
+      "Contacts":{ 
+         "CompanyName":"Paramount",
+         "Email":"test.ya.ru",
+         "Phone":"123456",
+         "CustomerCode":"1122"
+      },
+      "Address":{ 
+         "AddressLine1":"10300 Broadway st.",
+         "AddressLine2":"smh",
+         "City":"New York",
+         "State":"New York",
+         "Zip":"10025",
+         "Country":"USA"
+      }
+   },
+   "Distributor":{ 
+      "Partner":"KL-Test",
+      "Reseller":"TE67RU01"
+   },
+   "Comment":"It's just test!",
+   "DeliveryEmail":"your@email.com"
+}
+
+ModifyQuantity (replace SubscriptionId):
+{ 
+   "SubscriptionId":"d6099078-a655-47b0-a12c-c95729302a49",
+   "Quantity":199
+}
+
+
+HardCancel (replace SubscriptionId):
+{ 
+   "SubscriptionId":"1afe1433-a38e-4c79-8503-8d5687b44eb1"
+}

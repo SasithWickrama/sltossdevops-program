@@ -1,0 +1,136 @@
+2023-04-07 23:13:48,871-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '0253123001', 'offeringList': [{'offeringId': '1622533232', 'purchaseSeq': 'null'}]}
+2023-04-07 23:32:34,105-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '0253123001', 'offeringList': [{'offeringId': '1622533232', 'purchaseSeq': 'null'}]}
+2023-04-07 23:34:45,453-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '0253123001', 'offeringList': [{'offeringId': '1622533232', 'purchaseSeq': 'null'}]}
+2023-04-07 23:35:37,897-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '0253123001', 'offeringList': [{'offeringId': '1622533232', 'purchaseSeq': 'null'}]}
+2023-04-07 23:35:49,952-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '0253123001', 'offeringList': [{'offeringId': '1622533232', 'purchaseSeq': 'null'}]}
+2023-04-11 13:55:04,062-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '0113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-11 14:00:52,973-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '0113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-11 14:15:20,307-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '0113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-11 14:16:58,283-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '0113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-11 15:51:51,907-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-11 15:54:00,873-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-11 15:54:00,873-INFO-Exception : Traceback (most recent call last):
+  File "/opt/OssDevApi/main.py", line 228, in OCS_ADD_Offer
+    response = requests.post('http://10.253.0.211/sltServices/ocs/integration/offering', data=json.dumps(data),
+NameError: name 'requests' is not defined
+
+2023-04-11 15:55:23,859-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-11 15:55:23,860-INFO-Exception : Traceback (most recent call last):
+  File "/opt/OssDevApi/main.py", line 228, in OCS_ADD_Offer
+    response = requests.post('http://10.253.0.158/sltServices/ocs/integration/offering', data=json.dumps(data),
+NameError: name 'requests' is not defined
+
+2023-04-11 15:56:40,369-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-11 15:56:40,369-INFO-Exception : Traceback (most recent call last):
+  File "/opt/OssDevApi/main.py", line 228, in OCS_ADD_Offer
+    response = requests.post('http://10.253.0.158/sltServices/ocs/integration/offering', data=json.dumps(data),
+NameError: name 'requests' is not defined
+
+2023-04-12 12:28:58,122-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-12 12:28:58,123-INFO-Exception : Traceback (most recent call last):
+  File "/opt/OssDevApi/main.py", line 228, in OCS_ADD_Offer
+    response = requests.post('http://10.253.0.158/sltServices/ocs/integration/offering', data=json.dumps(data),
+NameError: name 'requests' is not defined
+
+2023-04-12 12:29:56,750-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-12 12:29:56,750-INFO-Exception : Traceback (most recent call last):
+  File "/opt/OssDevApi/main.py", line 228, in OCS_ADD_Offer
+    response = requests.post('http://10.253.0.158/sltServices/ocs/integration/offering', data=json.dumps(data),
+NameError: name 'requests' is not defined
+
+2023-04-12 12:30:17,033-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-12 12:30:17,034-INFO-Exception : Traceback (most recent call last):
+  File "/opt/OssDevApi/main.py", line 228, in OCS_ADD_Offer
+    response = requests.post('http://10.253.0.158/sltServices/ocs/integration/offering', data=json.dumps(data),
+NameError: name 'requests' is not defined
+
+2023-04-12 12:47:00,974-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '0113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-12 12:47:00,975-INFO-Exception : Traceback (most recent call last):
+  File "/opt/OssDevApi/main.py", line 228, in OCS_ADD_Offer
+    response = requests.post('http://10.253.0.211/sltServices/ocs/integration/offering', data=json.dumps(data),
+NameError: name 'requests' is not defined
+
+2023-04-12 13:46:21,987-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-12 13:46:21,987-INFO-Exception : Traceback (most recent call last):
+  File "/opt/OssDevApi/main.py", line 228, in OCS_ADD_Offer
+    response = requests.post('http://10.253.0.211/sltServices/ocs/integration/offering', data=json.dumps(data),
+NameError: name 'requests' is not defined
+
+2023-04-12 14:03:49,132-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-12 14:03:49,133-INFO-Exception : Traceback (most recent call last):
+  File "/opt/OssDevApi/main.py", line 228, in OCS_ADD_Offer
+    response = requests.post('http://10.253.0.211/sltServices/ocs/integration/offering', data=json.dumps(data),
+NameError: name 'requests' is not defined
+
+2023-04-13 12:54:55,207-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-13 12:54:55,209-INFO-Exception : Traceback (most recent call last):
+  File "/opt/OssDevApi/main.py", line 228, in OCS_ADD_Offer
+    response = requests.post('http://10.253.0.211/sltServices/ocs/integration/offering', data=json.dumps(data),
+NameError: name 'requests' is not defined
+
+2023-04-13 13:09:50,814-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-13 13:09:51,089-INFO-Response Code: 200
+2023-04-13 13:09:51,089-INFO-Response : {'resultHeader': {'version': '1', 'resultCode': '118030282', 'resultDesc': 'Offering 61000012 is subscribed repeatedly, and the subscription sequence number is null.'}}
+2023-04-17 13:33:05,367-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-17 13:33:06,672-INFO-Response Code: 200
+2023-04-17 13:33:06,672-INFO-Response : {'resultHeader': {'version': '1', 'resultCode': '118030282', 'resultDesc': 'Offering 61000012 is subscribed repeatedly, and the subscription sequence number is null.'}}
+2023-04-18 11:11:37,447-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-18 11:11:38,701-INFO-Response Code: 200
+2023-04-18 11:11:38,702-INFO-Response : {'resultHeader': {'version': '1', 'resultCode': '118030282', 'resultDesc': 'Offering 61000012 is subscribed repeatedly, and the subscription sequence number is null.'}}
+2023-04-18 11:24:54,033-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-18 11:24:54,162-INFO-Response Code: 200
+2023-04-18 11:24:54,162-INFO-Response : {'resultHeader': {'version': '1', 'resultCode': '118030282', 'resultDesc': 'Offering 61000012 is subscribed repeatedly, and the subscription sequence number is null.'}}
+2023-04-18 11:25:44,860-INFO-Request : {'requestHeader': {'operationType': 'DEL_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-18 11:25:52,378-INFO-Response Code: 200
+2023-04-18 11:25:52,378-INFO-Response : {'resultHeader': {'version': '1', 'resultCode': '0', 'resultDesc': 'Operation successfully.'}}
+2023-04-18 11:26:03,144-INFO-Request : {'requestHeader': {'operationType': 'DEL_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000011', 'purchaseSeq': 'null'}]}
+2023-04-18 11:26:03,393-INFO-Response Code: 200
+2023-04-18 11:26:03,393-INFO-Response : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000011 does not exist.'}}
+2023-04-18 11:26:23,381-INFO-Request : {'requestHeader': {'operationType': 'DEL_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000011', 'purchaseSeq': 'null'}]}
+2023-04-18 11:26:23,579-INFO-Response Code: 200
+2023-04-18 11:26:23,579-INFO-Response : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000011 does not exist.'}}
+2023-04-18 11:28:36,856-INFO-Request : {'requestHeader': {'operationType': 'DEL_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-18 11:28:37,005-INFO-Response Code: 200
+2023-04-18 11:28:37,005-INFO-Response : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-18 11:29:22,173-INFO-Request : {'requestHeader': {'operationType': 'DEL_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-18 11:29:22,455-INFO-Response Code: 200
+2023-04-18 11:29:22,455-INFO-Response : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-18 11:30:08,365-INFO-Request : {'requestHeader': {'operationType': 'DEL_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-18 11:30:08,612-INFO-Response Code: 200
+2023-04-18 11:30:08,613-INFO-Response : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-18 11:30:54,981-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-18 11:30:55,245-INFO-Response Code: 200
+2023-04-18 11:30:55,245-INFO-Response : {'resultHeader': {'version': '1', 'resultCode': '0', 'resultDesc': 'Operation successfully.'}}
+2023-04-18 11:43:15,838-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-18 11:43:16,099-INFO-Response Code: 200
+2023-04-18 11:43:16,099-INFO-Response : {'resultHeader': {'version': '1', 'resultCode': '118030282', 'resultDesc': 'Offering 61000012 is subscribed repeatedly, and the subscription sequence number is null.'}}
+2023-04-18 11:49:38,013-INFO-Request : {'requestHeader': {'operationType': 'DEL_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-18 11:49:45,333-INFO-Response Code: 200
+2023-04-18 11:49:45,333-INFO-Response : {'resultHeader': {'version': '1', 'resultCode': '0', 'resultDesc': 'Operation successfully.'}}
+2023-04-18 11:50:45,510-INFO-Request : {'requestHeader': {'operationType': 'DEL_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-18 11:50:45,739-INFO-Response Code: 200
+2023-04-18 11:50:45,739-INFO-Response : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-18 11:51:58,690-INFO-Request : {'requestHeader': {'operationType': 'DEL_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-18 11:51:58,770-INFO-Response Code: 200
+2023-04-18 11:51:58,771-INFO-Response : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-18 11:59:11,403-INFO-Request : {'requestHeader': {'operationType': 'DEL_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-18 11:59:11,579-INFO-Response Code: 200
+2023-04-18 11:59:11,580-INFO-Response : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-18 11:59:19,075-INFO-Request : {'requestHeader': {'operationType': 'DEL_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-18 11:59:19,215-INFO-Response Code: 200
+2023-04-18 11:59:19,215-INFO-Response : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-18 12:09:48,699-INFO-Request : {'requestHeader': {'operationType': 'DEL_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000011', 'purchaseSeq': 'null'}]}
+2023-04-18 12:09:48,869-INFO-Response Code: 200
+2023-04-18 12:09:48,869-INFO-Response : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000011 does not exist.'}}
+2023-04-18 12:51:39,776-INFO-Request : {'requestHeader': {'operationType': 'DEL_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-18 12:51:40,925-INFO-Response Code: 200
+2023-04-18 12:51:40,925-INFO-Response : {'resultHeader': {'version': '1', 'resultCode': '118030255', 'resultDesc': 'The instance of offering 61000012 does not exist.'}}
+2023-04-19 09:34:12,735-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-19 09:34:14,014-INFO-Response Code: 200
+2023-04-19 09:34:14,014-INFO-Response : {'resultHeader': {'version': '1', 'resultCode': '118013302', 'resultDesc': 'The account balance is insufficient.'}}
+2023-04-19 09:34:28,320-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-19 09:34:28,427-INFO-Response Code: 200
+2023-04-19 09:34:28,427-INFO-Response : {'resultHeader': {'version': '1', 'resultCode': '118013302', 'resultDesc': 'The account balance is insufficient.'}}
+2023-04-19 09:34:34,294-INFO-Request : {'requestHeader': {'operationType': 'ADD_OFFERING', 'requestedBy': 'slt', 'systemName': 'SLT_OCS_INT'}, 'primaryIdentity': '113493122', 'offeringList': [{'offeringId': '61000012', 'purchaseSeq': 'null'}]}
+2023-04-19 09:34:34,417-INFO-Response Code: 200
+2023-04-19 09:34:34,417-INFO-Response : {'resultHeader': {'version': '1', 'resultCode': '118013302', 'resultDesc': 'The account balance is insufficient.'}}

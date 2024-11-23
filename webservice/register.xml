@@ -1,0 +1,24 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ser="https://vendorapi.etpos.lk/soap/merchant/server">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <ser:register>
+            <name>{name}</name>
+            <email>{email}</email>
+            <company>{company}</company>
+            <telephone>{telephone}</telephone>
+            <mobile>{mobile}</mobile>
+            <username>{username}</username>
+            <password>{password}</password>
+            <confirmedPassword>{confirmedPassword}</confirmedPassword>
+            <registrantName>{registrantName}</registrantName>
+            <registrantRelation>{registrantRelation}</registrantRelation>
+            <registrantMobile>{registrantMobile}</registrantMobile>
+            <id>{id}</id>
+            <address>{address}</address>
+            <no_of_stores>{no_of_stores}</no_of_stores>
+            <payment_plan>
+                <plan>{plan}</plan>
+            </payment_plan>
+        </ser:register>
+    </soapenv:Body>
+</soapenv:Envelope>

@@ -1,0 +1,209 @@
+2023-03-20 11:08:00,449-INFO-z7VYGUxjcP592Jt - 127.0.0.1 - http://localhost:22555/sltdevops/apiServices/entmail - Content-Type: application/json
+User-Agent: PostmanRuntime/7.31.1
+Accept: */*
+Postman-Token: d4114d8d-4eb6-488b-84dc-7d91bb05542e
+Host: localhost:22555
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 89
+Cookie: csrftoken=JC6cThZ8G70yfdHRP32aR7QcFJBJpSGDCvtqvkBVgXrgwJiVaeNBdEdf9RzI3yVf
+
+ - {'mail': 'prabodha@slt.com.lk', 'subject': 'test mail', 'msg': 'test msg'}
+2023-03-20 11:13:35,759-INFO-FshRCo8t208SXml - 127.0.0.1 - http://localhost:22555/sltdevops/apiServices/entmail - Content-Type: application/json
+User-Agent: PostmanRuntime/7.31.1
+Accept: */*
+Postman-Token: d4909ebe-82f5-4ac1-8131-2b67f425099f
+Host: localhost:22555
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 89
+Cookie: csrftoken=JC6cThZ8G70yfdHRP32aR7QcFJBJpSGDCvtqvkBVgXrgwJiVaeNBdEdf9RzI3yVf
+
+ - {'mail': 'prabodha@slt.com.lk', 'subject': 'test mail', 'msg': 'test msg'}
+2023-03-20 11:14:44,244-INFO-E9r3ZTgXIwI9qqv - 127.0.0.1 - http://localhost:22555/sltdevops/apiServices/entmail - Content-Type: application/json
+User-Agent: PostmanRuntime/7.31.1
+Accept: */*
+Postman-Token: e061c4c6-d17c-44c2-b271-40e00f56f91c
+Host: localhost:22555
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 89
+Cookie: csrftoken=JC6cThZ8G70yfdHRP32aR7QcFJBJpSGDCvtqvkBVgXrgwJiVaeNBdEdf9RzI3yVf
+
+ - {'mail': 'prabodha@slt.com.lk', 'subject': 'test mail', 'msg': 'test msg'}
+2023-03-20 11:16:09,998-INFO-MZyM1vUI0TqpVfv - 127.0.0.1 - http://localhost:22555/sltdevops/apiServices/entmail - Content-Type: application/json
+User-Agent: PostmanRuntime/7.31.1
+Accept: */*
+Postman-Token: 4cc68a85-de31-48b1-8ff3-41ac356e0e9a
+Host: localhost:22555
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 89
+Cookie: csrftoken=JC6cThZ8G70yfdHRP32aR7QcFJBJpSGDCvtqvkBVgXrgwJiVaeNBdEdf9RzI3yVf
+
+ - {'mail': 'prabodha@slt.com.lk', 'subject': 'test mail', 'msg': 'test msg'}
+2023-03-20 11:18:39,443-INFO-X4bvQ5BQKVF8fwS - 127.0.0.1 - http://localhost:22555/sltdevops/apiServices/entmail - Content-Type: application/json
+User-Agent: PostmanRuntime/7.31.1
+Accept: */*
+Postman-Token: 78e3103c-b735-456c-b9eb-36ce136e6332
+Host: localhost:22555
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 89
+Cookie: csrftoken=JC6cThZ8G70yfdHRP32aR7QcFJBJpSGDCvtqvkBVgXrgwJiVaeNBdEdf9RzI3yVf
+
+ - {'mail': 'prabodha@slt.com.lk', 'subject': 'test mail', 'msg': 'test msg'}
+2023-03-20 11:40:42,151-INFO-dQIvcckXJ0T4CtP - 127.0.0.1 - http://localhost:22555/sltdevops/apiServices/entmail - Content-Type: application/json
+User-Agent: PostmanRuntime/7.31.1
+Accept: */*
+Postman-Token: a028920f-eb16-4d93-b5a7-f49f2291cf9c
+Host: localhost:22555
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 89
+Cookie: csrftoken=JC6cThZ8G70yfdHRP32aR7QcFJBJpSGDCvtqvkBVgXrgwJiVaeNBdEdf9RzI3yVf
+
+ - {'mail': 'prabodha@slt.com.lk', 'subject': 'test mail', 'msg': 'test msg'}
+2023-03-20 12:02:27,648-INFO-LHHnk1ca0ZlSmOr - 127.0.0.1 - http://localhost:22555/sltdevops/apiServices/entmail - Content-Type: application/json
+User-Agent: PostmanRuntime/7.31.1
+Accept: */*
+Postman-Token: 5e273ffc-27dc-4f49-b33a-63a90a7520fa
+Host: localhost:22555
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 89
+Cookie: csrftoken=JC6cThZ8G70yfdHRP32aR7QcFJBJpSGDCvtqvkBVgXrgwJiVaeNBdEdf9RzI3yVf
+
+ - {'mail': 'prabodha@slt.com.lk', 'subject': 'test mail', 'msg': 'test msg'}
+2023-03-20 12:14:18,584-INFO-Yqff5GxMJdkd6wN - 127.0.0.1 - http://localhost:22555/sltdevops/apiServices/entmail - Content-Type: application/json
+User-Agent: PostmanRuntime/7.31.1
+Accept: */*
+Postman-Token: 5ae7ee6c-7d75-4988-9c4b-c17ada223f22
+Host: localhost:22555
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 89
+Cookie: csrftoken=JC6cThZ8G70yfdHRP32aR7QcFJBJpSGDCvtqvkBVgXrgwJiVaeNBdEdf9RzI3yVf
+
+ - {'mail': 'prabodha@slt.com.lk', 'subject': 'test mail', 'msg': 'test msg'}
+2023-03-20 12:18:42,072-INFO-pLiZURuhANQMezs - 127.0.0.1 - http://localhost:22555/sltdevops/apiServices/entmail - Content-Type: application/json
+User-Agent: PostmanRuntime/7.31.1
+Accept: */*
+Postman-Token: 82b9e850-485f-4093-aabb-f385e914c2c2
+Host: localhost:22555
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 89
+Cookie: csrftoken=JC6cThZ8G70yfdHRP32aR7QcFJBJpSGDCvtqvkBVgXrgwJiVaeNBdEdf9RzI3yVf
+
+ - {'mail': 'prabodha@slt.com.lk', 'subject': 'test mail', 'msg': 'test msg'}
+2023-03-20 12:28:54,864-INFO-FBDcz6N7JhkKh6f - 127.0.0.1 - http://localhost:22555/sltdevops/apiServices/entmail - Content-Type: application/json
+User-Agent: PostmanRuntime/7.31.1
+Accept: */*
+Postman-Token: 4c59a415-b576-4b45-83c7-a1db2c903cba
+Host: localhost:22555
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 89
+Cookie: csrftoken=JC6cThZ8G70yfdHRP32aR7QcFJBJpSGDCvtqvkBVgXrgwJiVaeNBdEdf9RzI3yVf
+
+ - {'mail': 'prabodha@slt.com.lk', 'subject': 'test mail', 'msg': 'test msg'}
+2023-03-20 13:19:52,451-INFO-j0pzuT67V3buhum - 127.0.0.1 - http://localhost:22555/sltdevops/apiServices/entmail - Content-Type: application/json
+User-Agent: PostmanRuntime/7.31.1
+Accept: */*
+Postman-Token: 25b7c678-a30f-40a2-9514-773326e63445
+Host: localhost:22555
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 89
+Cookie: csrftoken=JC6cThZ8G70yfdHRP32aR7QcFJBJpSGDCvtqvkBVgXrgwJiVaeNBdEdf9RzI3yVf
+
+ - {'mail': 'prabodha@slt.com.lk', 'subject': 'test mail', 'msg': 'test msg'}
+2023-03-20 13:20:53,083-INFO-I9TKYm2rQINup5E - 127.0.0.1 - http://localhost:22555/sltdevops/apiServices/entmail - Content-Type: application/json
+User-Agent: PostmanRuntime/7.31.1
+Accept: */*
+Postman-Token: ece97b08-092e-4d78-88ef-6469a21fd54c
+Host: localhost:22555
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 89
+Cookie: csrftoken=JC6cThZ8G70yfdHRP32aR7QcFJBJpSGDCvtqvkBVgXrgwJiVaeNBdEdf9RzI3yVf
+
+ - {'mail': 'prabodha@slt.com.lk', 'subject': 'test mail', 'msg': 'test msg'}
+2023-03-20 13:22:02,613-INFO-83njqcXMHkk3ebF - 127.0.0.1 - http://localhost:22555/sltdevops/apiServices/entmail - Content-Type: application/json
+User-Agent: PostmanRuntime/7.31.1
+Accept: */*
+Postman-Token: ade013eb-56fe-4a81-ae2d-1e7d5bed06ea
+Host: localhost:22555
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 89
+Cookie: csrftoken=JC6cThZ8G70yfdHRP32aR7QcFJBJpSGDCvtqvkBVgXrgwJiVaeNBdEdf9RzI3yVf
+
+ - {'mail': 'prabodha@slt.com.lk', 'subject': 'test mail', 'msg': 'test msg'}
+2023-03-20 13:32:22,266-INFO-tzKx5WZ0vJa2Vo4 - 127.0.0.1 - http://localhost:22555/sltdevops/apiServices/entmail - Content-Type: application/json
+User-Agent: PostmanRuntime/7.31.1
+Accept: */*
+Postman-Token: 016f1c33-6e54-46e8-9ccd-a45cd8c0bd34
+Host: localhost:22555
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 89
+Cookie: csrftoken=JC6cThZ8G70yfdHRP32aR7QcFJBJpSGDCvtqvkBVgXrgwJiVaeNBdEdf9RzI3yVf
+
+ - {'mail': 'prabodha@slt.com.lk', 'subject': 'test mail', 'msg': 'test msg'}
+2023-03-20 13:37:33,945-INFO-tRuoDBVwjkNY5PO - 127.0.0.1 - http://localhost:22555/sltdevops/apiServices/entmail - Content-Type: application/json
+User-Agent: PostmanRuntime/7.31.1
+Accept: */*
+Postman-Token: 38d1dd3a-cc0c-4122-be23-3876e4f8b9e4
+Host: localhost:22555
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 89
+Cookie: csrftoken=JC6cThZ8G70yfdHRP32aR7QcFJBJpSGDCvtqvkBVgXrgwJiVaeNBdEdf9RzI3yVf
+
+ - {'mail': 'prabodha@slt.com.lk', 'subject': 'test mail', 'msg': 'test msg'}
+2023-03-20 13:38:46,381-INFO-j0pWkPkFJ6WLdCJ - 127.0.0.1 - http://localhost:22555/sltdevops/apiServices/entmail - Content-Type: application/json
+User-Agent: PostmanRuntime/7.31.1
+Accept: */*
+Postman-Token: e6284a7a-9762-4d1e-810b-aa45102de7f2
+Host: localhost:22555
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 89
+Cookie: csrftoken=JC6cThZ8G70yfdHRP32aR7QcFJBJpSGDCvtqvkBVgXrgwJiVaeNBdEdf9RzI3yVf
+
+ - {'mail': 'prabodha@slt.com.lk', 'subject': 'test mail', 'msg': 'test msg'}
+2023-03-20 13:39:22,347-INFO-5KIP11jHlw37TsF - 127.0.0.1 - http://localhost:22555/sltdevops/apiServices/entmail - Content-Type: application/json
+User-Agent: PostmanRuntime/7.31.1
+Accept: */*
+Postman-Token: 8b5b4c57-b9b3-4f5d-8cea-2e5cd45aac21
+Host: localhost:22555
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 89
+Cookie: csrftoken=JC6cThZ8G70yfdHRP32aR7QcFJBJpSGDCvtqvkBVgXrgwJiVaeNBdEdf9RzI3yVf
+
+ - {'mail': 'prabodha@slt.com.lk', 'subject': 'test mail', 'msg': 'test msg'}
+2023-03-20 13:39:32,760-INFO-Jymv3GLxMaWhjnb - 127.0.0.1 - http://localhost:22555/sltdevops/apiServices/entmail - Content-Type: application/json
+User-Agent: PostmanRuntime/7.31.1
+Accept: */*
+Postman-Token: e8bded3c-fdc5-4325-b065-4069e20eac77
+Host: localhost:22555
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 90
+Cookie: csrftoken=JC6cThZ8G70yfdHRP32aR7QcFJBJpSGDCvtqvkBVgXrgwJiVaeNBdEdf9RzI3yVf
+
+ - {'mail': 'prabodha@slt.com.lk', 'subject': 'test mail', 'msg': 'test msg1'}
+2023-03-20 13:40:01,754-INFO-pRHcTp8LriPU2qn - 127.0.0.1 - http://localhost:22555/sltdevops/apiServices/entmail - Content-Type: application/json
+User-Agent: PostmanRuntime/7.31.1
+Accept: */*
+Postman-Token: 0abe70c6-fabf-42d1-9419-d87483c6606a
+Host: localhost:22555
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 90
+Cookie: csrftoken=JC6cThZ8G70yfdHRP32aR7QcFJBJpSGDCvtqvkBVgXrgwJiVaeNBdEdf9RzI3yVf
+
+ - {'mail': 'prabodha@slt.com.lk', 'subject': 'test mail', 'msg': 'test msg1'}

@@ -1,0 +1,21 @@
+2022-10-19 22:18:52,873-INFO-nmi5lvczJd_0112889801  command xml : IMS DELATS 
+2022-10-19 22:18:52,873-INFO-nmi5lvczJd_0112889801  0#Operation succeeded.
+
+2022-10-19 22:18:53,551-INFO-nmi5lvczJd_0112889801  command xml : UDR DELHSS 
+2022-10-19 22:18:53,551-INFO-nmi5lvczJd_0112889801  0#success
+
+2022-10-19 22:18:54,177-INFO-nmi5lvczJd_0112889801  command xml : UDR DELENS 
+2022-10-19 22:18:54,177-INFO-nmi5lvczJd_0112889801  0#success
+
+2022-10-19 22:18:54,909-INFO-nmi5lvczJd_0112889801  command xml : MSAN DELETE 
+2022-10-19 22:18:54,909-INFO-nmi5lvczJd_0112889801  DDOF# device operation failed (Record does not exist.)
+
+2022-10-19 22:19:07,527-INFO-nmi5lvczJd_0112889801  command xml : UDR ADDHSS 
+2022-10-19 22:19:07,527-INFO-nmi5lvczJd_0112889801  0#success No Error
+
+2022-10-19 22:19:08,151-INFO-nmi5lvczJd_0112889801  command xml : UDR ADDENS 
+2022-10-19 22:19:08,151-INFO-nmi5lvczJd_0112889801  0#success
+
+2022-10-19 22:19:08,806-ERROR-nmi5lvczJd_0112889801  command xml : IMS ADDATS 
+2022-10-19 22:19:08,810-ERROR-nmi5lvczJd_0112889801  0#Operation succeeded.
+
